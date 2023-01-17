@@ -10,7 +10,7 @@ Cześć, jestem Artur. Biorę udział w portfolio challenge, ponieważ chcę zdo
 
 ## Subtask 4
 
-####  Na czym polega ta aplikacja? Do czego służy? 
+#### Na czym polega ta aplikacja? Do czego służy?
 
 > Aplikacja "Scouts Panel" służy do kompleksowego zarządzania zarządzania sportowcami(grającymi w piłkę nożną).
 
@@ -27,7 +27,7 @@ Cześć, jestem Artur. Biorę udział w portfolio challenge, ponieważ chcę zdo
 > W panelu "Raporty" mamy możliwość dodania raportu ręcznie wciskając guzik "DODAJ RAPORT". Możemy dodać: Drużyna zawodnika, Zdobyte gole, Stracone gole, Drużyne przeciwnika, Datę, Ostatnia Modyfikacja(wypełnia się automatycznie), Autor.  
 > Na końcu rubryki mamy ikonę edycji. Gdy w nią klikniemy ukazuję się nam poniższy raport.
 > 
-> Screenshot: 
+> Screenshot:
 > 
 > ![](https://user-images.githubusercontent.com/80460700/212973485-ca1bd078-2512-41ef-aa31-e0f2127a9d7e.png)
 > 
@@ -35,8 +35,7 @@ Cześć, jestem Artur. Biorę udział w portfolio challenge, ponieważ chcę zdo
 > 
 > Panel "Gracz" Pozwala nam na przeglądanie listy graczy, pobieranie informacji w formacie CSV, filtrowanie listy na bazie kryteriów(Imię, Nazwisko, Wiek(zakres od - do), Pozycja, Klub, Ocena(zakres od - do)).
 > 
-> Aplikacja pozwala też na zalogowanie i wylogowanie się.  
->  
+> Aplikacja pozwala też na zalogowanie i wylogowanie się.  
 
 #### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 
@@ -53,4 +52,6 @@ Cześć, jestem Artur. Biorę udział w portfolio challenge, ponieważ chcę zdo
 > Pola tekstowe w formularzach nie posiadają walidacji, więc można wpisać liczby i inne znaki w imieniu i nazwisku.  
 > Podobnie jest z pozycją, można wymyślić własną(powinna być predefiniowana możliwość wyboru), dodając znaki.  
 > W polu numerów telefonów też można wpisywać cokolwiek się zapragnie.  
-> Link do facebooka i panel dodawania linku youtube nie posiadają walidacji czy są faktycznie linkami, powinny posiadać algorytmy sprawdzające czy są linkami do tego portalu i weryfikować odnośniki( na przykładzie youtube: [https://www.youtube.com/channel/***tutajNazwaUżytkownika\*\*\*](https://www.youtube.com/channel/***tutajNazwaUżytkownika***) )
+> Link do facebooka i panel dodawania linku youtube nie posiadają walidacji czy są faktycznie linkami, powinny posiadać algorytmy sprawdzające czy są linkami do tego portalu i weryfikować odnośniki( na przykładzie youtube: [https://www.youtube.com/channel/***tutajNazwaUżytkownika\*\*\*](https://www.youtube.com/channel/***tutajNazwaU%C5%BCytkownika***) ).  
+> Nie działa wygenerowany link do "meczu" w raporcie (który jest widoczny na powyższym screenshocie).  
+>
