@@ -53,5 +53,10 @@ Cześć, jestem Artur. Biorę udział w portfolio challenge, ponieważ chcę zdo
 > Podobnie jest z pozycją, można wymyślić własną(powinna być predefiniowana możliwość wyboru), dodając znaki.  
 > W polu numerów telefonów też można wpisywać cokolwiek się zapragnie.  
 > Link do facebooka i panel dodawania linku youtube nie posiadają walidacji czy są faktycznie linkami, powinny posiadać algorytmy sprawdzające czy są linkami do tego portalu i weryfikować odnośniki( na przykładzie youtube: [https://www.youtube.com/channel/***tutajNazwaUżytkownika\*\*\*](https://www.youtube.com/channel/***tutajNazwaU%C5%BCytkownika***) ).  
-> Nie działa wygenerowany link do "meczu" w raporcie (który jest widoczny na powyższym screenshocie).  
->
+> Nie działa wygenerowany link do "meczu" w raporcie (który jest widoczny na powyższym screenshocie).
+
+# Task 2
+
+## Subtask 3
+
+> Test case'y są pisane, aby upewnić się, że opracowywany oprogramowanie lub system działa prawidłowo i spełnia wymagania i oczekiwania końcowego użytkownika. Służą one jako sposób na weryfikację, że oprogramowanie lub system działa zgodnie z zamierzeniem i mogą wykrywać błędy lub problemy, które trzeba rozwiązać przed końcową wersją. Tworząc test case'y, możemy również upewnić się, że oprogramowanie lub system jest niezawodny, wydajny i przyjazny dla użytkownika. Dodatkowo test case'y mogą być używane do oceny wydajności, bezpieczeństwa i zgodności systemu i mogą być używane jako odniesienie do przyszłej konserwacji i aktualizacji.
